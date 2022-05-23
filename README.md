@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Nathalia Pereira
+- Graduanda em Ciência e Tecnologia pela UFBA
+- Membro trainee na Empresa Júnior de Engenharia da Computação da UFBA
+- 👀 Me interesso por front-end
