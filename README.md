@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Nathalia Pereira
 - Graduanda em Ciência e Tecnologia pela UFBA
+- Estagiária de desenvolvimento no Colégio Antônio Vieira
+- Voluntária no Projeto Meninas Digitais
 - Membro trainee na Empresa Júnior de Engenharia da Computação da UFBA
 - 👀 Me interesso por front-end
