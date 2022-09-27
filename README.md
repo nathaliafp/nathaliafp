@@ -2,5 +2,5 @@
 - Graduanda em Ciência e Tecnologia pela UFBA
 - Estagiária de desenvolvimento web no Colégio Antônio Vieira
 - Voluntária no Projeto Meninas Digitais
-- Membro trainee na Empresa Júnior de Engenharia da Computação da UFBA
+- Líder Comercial na Empresa Júnior de Engenharia da Computação da UFBA (TITAN)
 - 👀 Me interesso por front-end
