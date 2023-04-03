@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Nathalia Pereira
 - Graduanda em Ciência e Tecnologia pela UFBA
-- Estagiária de desenvolvimento web no Colégio Antônio Vieira
-- Voluntária no Projeto Meninas Digitais
-- Líder Comercial na Empresa Júnior de Engenharia da Computação da UFBA (TITAN)
-- 👀 Me interesso por front-end
+- Monitora de informática no Colégio Antônio Vieira
+- 👀 Me tornando programadora full stack
